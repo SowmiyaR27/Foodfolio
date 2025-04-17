@@ -1,0 +1,1 @@
+Foodfolio is a responsive food-themed website built with HTML, CSS, and JavaScript. It features a homepage, food quotes, healthy eating tips, about, and contact sections. This project highlights my web development skills and a focus on content and user experience. 
